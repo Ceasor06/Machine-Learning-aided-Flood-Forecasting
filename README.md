@@ -22,10 +22,10 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 
 ## Dataset Used 
 
-We took data from the ![Indian Flood Inventory](https://link.springer.com/article/10.1007/s11069-021-04698-6) to find the dates for floods.
+We took data from the [Indian Flood Inventory](https://link.springer.com/article/10.1007/s11069-021-04698-6) to find the dates for floods.
 
-We extracted the information of Rain statewise data from ![India Environment Portal](http://www.indiaenvironmentportal.org.in/media/iep/infographics/Rainfall%20in%20India/112%20years%20of%20rainfall.html).
+We extracted the information of Rain statewise data from [India Environment Portal](http://www.indiaenvironmentportal.org.in/media/iep/infographics/Rainfall%20in%20India/112%20years%20of%20rainfall.html).
 
-We have also extracted information of population from ![world bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)  
+We have also extracted information of population from [world bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)  
 
-temperature(https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ) and made a dataset using all these features to perform our time series analysis.
+and [temperature](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ) and made a dataset using all these features to perform our time series analysis.
