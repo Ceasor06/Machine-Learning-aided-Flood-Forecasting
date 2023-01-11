@@ -34,10 +34,10 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 
 ## Models used
 
-- XG-B Classifier : [Model1](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model1).
+- XG-B Classifier : [Model1](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model1)
 
-- Random Forest : [Model2](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model2).
+- Random Forest : [Model2](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model2)
 
-- Artificial Neural Network : [Model3](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model3).
+- Artificial Neural Network : [Model3](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model3)
 
 
