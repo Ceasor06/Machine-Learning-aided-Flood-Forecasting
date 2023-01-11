@@ -29,3 +29,12 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 - We have also extracted information of population from [world bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IN)  
 
 - and [temperature](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ) and made a dataset using all these features to perform our time series analysis.
+
+<hr>
+
+## Models used
+
+- XG-B Classifier
+- Artificial Neural Network
+- Random Forest
+- 
