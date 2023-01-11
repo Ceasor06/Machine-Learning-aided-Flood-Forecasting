@@ -34,7 +34,10 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 
 ## Models used
 
-- XG-B Classifier
-- Artificial Neural Network
-- Random Forest
-- 
+- XG-B Classifier [Model1]()
+
+- Artificial Neural Network [Model2]()
+
+- Random Forest [Model3]()
+
+
