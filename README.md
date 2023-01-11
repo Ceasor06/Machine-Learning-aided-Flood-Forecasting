@@ -32,7 +32,8 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 
 _Attributes of our Dataset:_
 
-<img width="635" alt="image" src="https://user-images.githubusercontent.com/105945382/211775718-2981c8dd-e2cc-4e8e-a2d1-1b3530d0fb3c.png">
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/105945382/211894966-895f0fe1-d009-46c2-ba97-2e4282ab525c.png">
+
 
 
 <hr>
