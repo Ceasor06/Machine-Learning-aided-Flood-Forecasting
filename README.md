@@ -46,4 +46,13 @@ _Attributes of our Dataset:_
 
 - Artificial Neural Network : [Model3](https://github.com/Ceasor06/Machine-Learning-aided-Flood-Forecasting/tree/main/Model3)
 
+<hr>
+
+## Future Work
+
+- There is still need of more quality data flood of India, especially of rural areas where impact of flood is more devastating than other areas. 
+
+- Creating a proper dataset having more attributes will make our model more accurate than before which in turn will help our client achieve accurate results.
+
+- Using real time data using satellites to make accurate and localised predictions.
 
