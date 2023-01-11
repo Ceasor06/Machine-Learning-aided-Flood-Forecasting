@@ -30,6 +30,11 @@ we picked up time series forecasting by creating our own dataset from scratch ex
 
 - and [temperature](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data ) and made a dataset using all these features to perform our time series analysis.
 
+_Attributes of our Dataset:_
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/105945382/211775718-2981c8dd-e2cc-4e8e-a2d1-1b3530d0fb3c.png">
+
+
 <hr>
 
 ## Models used
