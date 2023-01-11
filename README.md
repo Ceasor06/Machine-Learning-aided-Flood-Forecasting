@@ -7,7 +7,8 @@
 historical data of previous flood data that ocurred in _Assam_ from 1926 to 2015.**
 
 ### This project was done under Internship programme at NUS-School of Computing in December 2022
-![nus-school-of-computing](https://user-images.githubusercontent.com/105945382/211738154-02c1cb23-5074-44f3-92c4-7e51ca34d6c0.png)
+<img align="right" width=350 src="https://user-images.githubusercontent.com/105945382/211738154-02c1cb23-5074-44f3-92c4-7e51ca34d6c0.png" />
+
 
 Floods are a recurrent phenomenon, the most common natural disaster in India, which cause huge loss of lives and 
 damage to livelihood systems, property, 
