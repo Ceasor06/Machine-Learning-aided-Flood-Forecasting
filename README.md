@@ -6,6 +6,8 @@
 **A comparative study between different machine learning and deep learning algorithms to predict future flood disasters by analyzing 
 historical data of previous flood data that ocurred in _Assam_ from 1926 to 2015.**
 
+### This project was done under Internship programme at NUS-School of Computing in December 2022
+
 Floods are a recurrent phenomenon, the most common natural disaster in India, which cause huge loss of lives and 
 damage to livelihood systems, property, 
 infrastructure and public utilities. 
